@@ -1,0 +1,30 @@
+{
+  "projectName": "torino ",
+  "styleFile": "/css/style.css",
+  "assetsFolder": "/bilder",
+  "designFramework": "bootstrap4",
+  "frameworks": [
+    {
+      "name": "appConnect",
+      "type": "local"
+    },
+    {
+      "name": "moment_2",
+      "type": "cdn with locales"
+    },
+    {
+      "name": "jquery_slim_35",
+      "type": "cdn"
+    },
+    {
+      "name": "fontawesome_4",
+      "type": "cdn"
+    },
+    {
+      "name": "bootstrap4",
+      "type": "cdn"
+    }
+  ],
+  "projectType": "web",
+  "targets": []
+}
